@@ -1,0 +1,25 @@
+body {
+    font-family: tahoma;
+    background-color: rgb(15, 116, 156);
+}
+
+h2 {
+    color:rgb(0, 0, 0);
+    font-size: 20pt
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color:rgb(255, 255, 255);
+    padding: 12px;
+    font-size: 12pt;
+    border-radius: 0.0rem;
+}
+a:hover {
+    color:rgb(162, 173, 2);
+}
+.ancora {
+    background-color: white;
+    opacity: 0.0;
+}
